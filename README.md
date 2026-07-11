@@ -284,182 +284,50 @@ access level: undisclosed
 <br>
 
 **Programming**
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br>
 
 **Frontend**
-
-
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
-
-
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 <br>
 
 **Backend**
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-
-
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2A2A2A?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Uvicorn-2A2A2A?style=for-the-badge&logo=gunicorn&logoColor=white" />
 
 <br>
 
 **Automation**
-
-
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-
+<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
 <br>
 
 **AI**
-
-
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
-
-
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-
-
-
-![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
-
-
-
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-
-
-
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-
-
-
-
-![OpenRouter](https://img.shields.io/badge/OpenRouter-1A1A2E?style=for-the-badge&logoColor=white)
-
-
-
-
-![LiteLLM](https://img.shields.io/badge/LiteLLM-1A1A2E?style=for-the-badge&logoColor=white)
-
-
-
-
-![OpenCode Zen](https://img.shields.io/badge/OpenCode_Zen-1A1A2E?style=for-the-badge&logoColor=white)
-
-
-
 <br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /> <img src="https://img.shields.io/badge/OpenRouter-1A1A2E?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/LiteLLM-1A1A2E?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode_Zen-1A1A2E?style=for-the-badge&logoColor=white" />
+
+<br><br>
 
 **Infrastructure**
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
-
 <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+<br><br>
 
 **Search**
-
-
-
-![SearXNG](https://img.shields.io/badge/SearXNG-3050FF?style=for-the-badge&logoColor=white)
-
-
-
 <br>
+<img src="https://img.shields.io/badge/SearXNG-3050FF?style=for-the-badge&logoColor=white" />
+
+<br><br>
 
 **Libraries**
-
-
-
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logoColor=white)
-
-
-
-
-![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logoColor=white)
-
-
-
-
-![psutil](https://img.shields.io/badge/psutil-2A2A2A?style=for-the-badge&logoColor=white)
-
-
-
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-
+<br>
+<img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/psutil-2A2A2A?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 
 </div>
 
@@ -474,7 +342,6 @@ access level: undisclosed
 ## `./stats --fetch`
 
 <br>
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugdabgar21&theme=github-dark-blue&hide_border=true&background=0D1117" width="65%" />
 
@@ -503,9 +370,3 @@ access level: undisclosed
 ```
 > connection secure. session logged.
 ```
-
-<br>
-
-### `Explore a repo. Open a discussion. Star what you find useful.`
-
-</div>
