@@ -27,7 +27,7 @@
 
 <br>
 
-### `> I build real software, fast — using AI as leverage, not a crutch.`
+### `> I build real software, fast - using AI as leverage, not a crutch.`
 
 <br>
 
@@ -40,7 +40,7 @@
 ```bash
 yug@dabgar:~$ whoami
 ```
-> Automation, security, and AI-assisted workflows —
+> Automation, security, and AI-assisted workflows -
 > engineered to ship, not just demo.
 
 ```bash
@@ -250,16 +250,20 @@ access level: undisclosed
 <tr>
 <td width="50%">
 
-`▸` **Problem First** — solve what's real
-`▸` **Ship Fast** — momentum beats polish
-`▸` **Automate the Boring** — humans shouldn't repeat
+`▸` **Problem First** - solve what's real
+
+`▸` **Ship Fast** - momentum beats polish
+
+`▸` **Automate the Boring** - humans shouldn't repeat
 
 </td>
 <td width="50%">
 
-`▸` **Keep It Simple** — complexity is a cost
-`▸` **Build Useful Things** — impact over novelty
-`▸` **Open Source Matters** — build in the open
+`▸` **Keep It Simple** - complexity is a cost
+
+`▸` **Build Useful Things** - impact over novelty
+
+`▸` **Open Source Matters** - build in the open
 
 </td>
 </tr>
@@ -471,10 +475,6 @@ access level: undisclosed
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yugdabgar21&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugdabgar21&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="35%" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugdabgar21&theme=github-dark-blue&hide_border=true&background=0D1117" width="65%" />
 
