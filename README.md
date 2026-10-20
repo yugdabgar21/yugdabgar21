@@ -33,21 +33,21 @@
 
 ## `Yug Dabgar`
 
-<h4>&nbsp;&nbsp;&nbsp;Automation Engineer</h4>
+<h4>&nbsp;&nbsp;&nbsp;AI Engineer · Automation · SaaS</h4>
 
 <br>
 
 ```bash
 yug@dabgar:~$ whoami
 ```
-> Automation, security, and AI-assisted workflows -
+> AI-native software, automation, and SaaS -
 > engineered to ship, not just demo.
 
 ```bash
 yug@dabgar:~$ cat interests.log
 ```
-&nbsp;&nbsp;`[01]` Automation &nbsp;·&nbsp; `[02]` Python
-&nbsp;&nbsp;`[03]` Cybersecurity &nbsp;·&nbsp; `[04]` AI Workflows
+&nbsp;&nbsp;`[01]` AI Engineering &nbsp;·&nbsp; `[02]` Automation
+&nbsp;&nbsp;`[03]` SaaS Products &nbsp;·&nbsp; `[04]` Cybersecurity
 
 <br>
 
@@ -143,6 +143,32 @@ infra    : docker / linux
 
 </td>
 </tr>
+<tr>
+<td width="16.6%" align="center">
+
+`🧠`
+**AI Agents**
+
+</td>
+<td width="16.6%" align="center">
+
+`🚀`
+**SaaS**
+
+</td>
+<td width="16.6%" align="center">
+
+</td>
+<td width="16.6%" align="center">
+
+</td>
+<td width="16.6%" align="center">
+
+</td>
+<td width="16.6%" align="center">
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -163,13 +189,13 @@ infra    : docker / linux
 <tr>
 <td width="50%" valign="top">
 
-### 🗂 Indom
+### 🗂 INDOM
 ```
-type    : automation system
-status  : active
-stack   : python
+type    : AI SaaS product
+status  : live
+stack   : [your stack]
 ```
-> A core automation build focused on clean, reliable task execution.
+> AI-powered CV tailoring for specific jobs. Built and deployed independently. [indomcv.me](https://indomcv.me/)
 
 </td>
 <td width="50%" valign="top">
@@ -370,3 +396,5 @@ access level: undisclosed
 ```
 > connection secure. session logged.
 ```
+
+</div>
